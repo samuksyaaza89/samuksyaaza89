@@ -2,7 +2,8 @@
 ## 👋 Olá! Eu sou *Samuel*
 
 🔧 Desenvolvedor embarcado iniciante • 💡 Eletrônica • 📡 MCU • 🧠 Baixo nível
-Apaixonado por microcontroladores, otimização e escrever firmware eficiente.
+
+Apaixonado por microcontroladores, PCBs, otimização e escrever firmware eficiente.
 
 ---
 
