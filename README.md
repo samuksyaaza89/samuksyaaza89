@@ -25,7 +25,6 @@ Apaixonado por microcontroladores, PCBs, otimização e escrever firmware eficie
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge\&logo=gnu\&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF0000?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
@@ -39,6 +38,7 @@ Apaixonado por microcontroladores, PCBs, otimização e escrever firmware eficie
 * Arquiteturas RISC & otimização em C
 * Controle de hardware com baixo consumo
 * Eletrônica digital
+* Placas de Circuito Impresso
 
 ---
 
