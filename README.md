@@ -24,6 +24,8 @@ Apaixonado por microcontroladores, PCBs, otimização e escrever firmware eficie
 #### 🛠️ Ferramentas
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR%20Workbench-4B0082?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00599C?style=for-the-badge&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-000000?style=for-the-badge\&logo=gnu\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
